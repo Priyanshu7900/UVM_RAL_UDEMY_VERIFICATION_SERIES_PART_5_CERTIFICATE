@@ -1,6 +1,7 @@
 # UVM for Verification – Part 3: Register Abstraction Layer (RAL)
 
-<img width="1883" height="924" alt="image" src="https://github.com/user-attachments/assets/f12c2eda-0621-4fad-b0c6-0397db32ac63" />
+<img width="1889" height="912" alt="Screenshot 2025-08-20 182511" src="https://github.com/user-attachments/assets/5b8bd8db-d5a6-42ce-b46c-df9c9751236d" />
+
 
 Completed the *“UVM for Verification – Part 3: Register Abstraction Layer (RAL)”* course on Udemy, gaining in-depth understanding and practical experience with **UVM RAL for register modeling and verification**.  
 
